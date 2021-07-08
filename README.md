@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HRHaroldRosado
-- 👀 I’m interested in ... Aprender Desarrollo WEB
+- 👀 I’m interested in ... El Desarrollo WEB
 - 🌱 I’m currently learning ... HTML5, CSS3 y JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
